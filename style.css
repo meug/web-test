@@ -1,0 +1,16 @@
+
+.horizontal {
+    display: flex;
+    list-style: none;
+    background-color: darkslategray;
+    justify-content: center;
+    width: 100%
+}
+.horizontal li {
+    margin: 20px;
+    justify-content: center;
+ 
+}
+.menu {
+    margin: 0px;
+}
